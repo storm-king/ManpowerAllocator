@@ -9,7 +9,7 @@ Attendance: Allows the user to select which employees are present/absent.
 
 Edit Employee: Allows the user to add or edit information on existing employees.
 
-![Screenshot](MainScreen.PNG)
+![Screenshot](Edit employee.PNG)
 
 Options: Allows the user to edit departments, work groups, and jobs for each work group.
 
