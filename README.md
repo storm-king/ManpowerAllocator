@@ -13,6 +13,11 @@ Edit Employee: Allows the user to add or edit information on existing employees.
 
 Options: Allows the user to edit departments, work groups, and jobs for each work group.
 
+![Screenshot](Options.PNG)
+
 Allocate: Allows the user to allocate employees and outputs job assignments. 
+
+![Screenshot](Allocate1.PNG)
+![Screenshot](Allocate2.PNG)
 
 Note: This program is still currently under development
