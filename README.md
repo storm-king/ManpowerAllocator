@@ -5,7 +5,11 @@ Software to keep track of, edit, and place employees in positions based on jobs 
 
 Attendance: Allows the user to select which employees are present/absent.
 
+![Screenshot](AbsentScreen.PNG)
+
 Edit Employee: Allows the user to add or edit information on existing employees.
+
+![Screenshot](MainScreen.PNG)
 
 Options: Allows the user to edit departments, work groups, and jobs for each work group.
 
