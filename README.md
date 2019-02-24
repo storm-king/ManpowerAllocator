@@ -7,7 +7,7 @@ Attendance: Allows the user to select which employees are present/absent.
 
 ![Screenshot](AbsentScreen.PNG)
 
-Edit Employee: Allows the user to add or edit information on existing employees.
+Edit Employee: Allows the user to add or edit information on new or existing employees.
 
 ![Screenshot](EditEmployee.PNG)
 
